@@ -1,0 +1,8 @@
+C:\Users\ctran\source\repos\Stock\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+C:\Users\ctran\source\repos\Stock\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\ctran\source\repos\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\ctran\source\repos\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\ctran\source\repos\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\ctran\source\repos\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\ctran\source\repos\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\ctran\source\repos\Stock\Stock\obj\Debug\Stock.pdb
